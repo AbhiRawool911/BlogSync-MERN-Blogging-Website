@@ -68,9 +68,7 @@ Here are some screenshots from the BlogSync website:
 ![User Profile Page Screenshot](https://github.com/AbhiRawool911/Newsie/assets/157002044/3bff7db7-96ee-472f-a3b9-a0981f56e7ca)
  
 - **Mobile View :**
-<p align="center">
-  &nbsp;&nbsp;<img src="https://github.com/AbhiRawool911/BlogSync-MERN-Blogging-Website/assets/157002044/8a1bf6b3-9dda-49f1-800c-9a3094d490fd" alt="Image 1" width="247" height="433">
-  &nbsp;&nbsp;<img src="https://github.com/AbhiRawool911/BlogSync-MERN-Blogging-Website/assets/157002044/b1b39749-4ecb-49b2-b5fc-317f9775e0e9" alt="Image 2" width="247" height="433">
+<p align="center">&nbsp;&nbsp;<img src="https://github.com/AbhiRawool911/BlogSync-MERN-Blogging-Website/assets/157002044/8a1bf6b3-9dda-49f1-800c-9a3094d490fd" alt="Image 1" width="247" height="433">&nbsp;&nbsp;<img src="https://github.com/AbhiRawool911/BlogSync-MERN-Blogging-Website/assets/157002044/b1b39749-4ecb-49b2-b5fc-317f9775e0e9" alt="Image 2" width="247" height="433">
 </p>
 
 ## Technologies Used
