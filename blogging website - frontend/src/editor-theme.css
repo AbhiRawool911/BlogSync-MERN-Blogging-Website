@@ -1,0 +1,63 @@
+@media (min-width: 650px){
+    
+    body[data-theme="dark"] .ce-toolbar__plus path,
+    body[data-theme="dark"] .ce-toolbar__settings-btn path{
+        color: #F3F3F3;
+    }
+
+
+    body[data-theme="dark"] .ce-toolbar__settings-btn:hover path,
+    body[data-theme="dark"] .ce-toolbar__plus:hover path{
+        color: #242424;
+    }
+
+}
+
+body[data-theme="dark"] .ce-popover-item{
+    color: #F3F3F3;
+}
+
+body[data-theme="dark"] .cdx-block span{
+    background-color: #414141 !important;
+}
+
+body[data-theme="dark"] .ce-block.ce-block--selected .cdx-block,
+body[data-theme="dark"] .ce-block.ce-block--selected .ce-block__content,
+body[data-theme="dark"] .ce-block.ce-block--focused .cdx-block{
+    background: #2A2A2A;
+    color: #e0e0e0
+}
+
+body[data-theme="dark"] .ce-inline-toolbar{
+    background: #242424;
+    border: 2px solid #2A2A2A;
+}
+
+body[data-theme="dark"] .cdx-marker{
+    color: #000;
+    background: #fff;
+}
+
+body[data-theme="dark"] .ce-inline-tool-input,
+body[data-theme="dark"] .ce-conversion-tool__icon,
+body[data-theme="dark"] .ce-popover-item__icon,
+body[data-theme="dark"] .ce-popover,
+body[data-theme="dark"] .cdx-search-field,
+body[data-theme="dark"] .cdx-button,
+body[data-theme="dark"] .image-tool__image,
+body[data-theme="dark"] .ce-conversion-toolbar{
+    /* color: #fff; */
+    background: #242424;
+    border-color: #2A2A2A;
+}
+
+body[data-theme="dark"] .cdx-input{
+    border-color: #5e5e5e;
+}
+
+body[data-theme="dark"] .ce-inline-tool:hover,
+body[data-theme="dark"] .ce-inline-toolbar__dropdown:hover,
+body[data-theme="dark"] .ce-popover-item:hover,
+body[data-theme="dark"] .ce-conversion-tool:hover{
+    background: #3c3c3c;
+}
