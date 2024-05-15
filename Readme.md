@@ -97,7 +97,7 @@ We welcome contributions to improve BlogSync and make it even better! To contrib
    
 2. **Clone** your forked repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/BlogSync.git
+   git clone https://github.com/AbhiRawool911/BlogSync-MERN-Blogging-Website.git
 
 3. **Create a new branch** for your feature or bug fix:
    ```bash
