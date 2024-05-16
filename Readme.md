@@ -1,14 +1,18 @@
-# BlogSync - MERN Blogging Website
+<div align="center">
+    <img src="https://github.com/AbhiRawool911/Newsie/assets/157002044/282dfd80-0cfa-496d-b40f-4dffd0cca5bc" alt="BlogSync Logo">
 
-<p align="center">
-  <img src="https://github.com/AbhiRawool911/Newsie/assets/157002044/282dfd80-0cfa-496d-b40f-4dffd0cca5bc" alt="BlogSync Logo">
-</p>
+  <h3 align="center">BlogSync - MERN Blogging Website</h3>
+
+  <p align="center">
+    A platform to create, share, and manage blogs seamlessly.
+    <br />
+    <a href="">View Demo</a>
+  </p>
+</div>
 
 ## Overview
 
 BlogSync is a modern and feature-rich MERN (MongoDB, Express.js, React.js, Node.js) blogging website that empowers users to create, share, and manage their blogs seamlessly. Whether you're a seasoned blogger or just starting, BlogSync offers a comprehensive set of tools and features to enhance your blogging experience.
-
-Website Demo: [Demo](https://blogsync.netlify.app/)
 
 ## Key Features
 
@@ -68,7 +72,7 @@ Here are some screenshots from the BlogSync website:
 ![User Profile Page Screenshot](https://github.com/AbhiRawool911/Newsie/assets/157002044/3bff7db7-96ee-472f-a3b9-a0981f56e7ca)
  
 - **Mobile View :**
-<p align="center">&nbsp;&nbsp;&nbsp;<img src="https://github.com/AbhiRawool911/BlogSync-MERN-Blogging-Website/assets/157002044/8a1bf6b3-9dda-49f1-800c-9a3094d490fd" alt="Image 1" width="247" height="433">&nbsp;&nbsp;&nbsp;<img src="https://github.com/AbhiRawool911/BlogSync-MERN-Blogging-Website/assets/157002044/b1b39749-4ecb-49b2-b5fc-317f9775e0e9" alt="Image 2" width="247" height="433">
+<p align="center">&nbsp;&nbsp;&nbsp;<img src="https://github.com/AbhiRawool911/BlogSync-MERN-Blogging-Website/assets/157002044/8a1bf6b3-9dda-49f1-800c-9a3094d490fd" alt="Image 1" width="240" height="435">&nbsp;&nbsp;&nbsp;<img src="https://github.com/AbhiRawool911/BlogSync-MERN-Blogging-Website/assets/157002044/b1b39749-4ecb-49b2-b5fc-317f9775e0e9" alt="Image 2" width="240" height="435">
 </p>
 
 ## Technologies Used
