@@ -6,7 +6,7 @@
   <p align="center">
     A platform to create, share, and manage blogs seamlessly.
     <br />
-    <a href="">View Demo</a>
+    <a href="https://blogsync.netlify.app/">Visit Website</a>
   </p>
 </div>
 
